@@ -1,0 +1,16 @@
+.input {
+  border-radius: 12px;
+}
+
+.md {
+  width: 3rem;
+}
+.lg {
+  width: 6rem;
+}
+.xl {
+  width: 8rem;
+}
+.sm {
+  width: 1rem;
+}
